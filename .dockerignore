@@ -4,6 +4,8 @@
 .gitignore
 build/*
 Dockerfile
+docker-compose.yml
+docker-compose.override.yml
 node_modules
 npm-debug.log*
 README.md
